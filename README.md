@@ -35,21 +35,21 @@ git remote add origin <URL link of your github>
   git checkout dev and git branch -d test
 
 ### Exercises 2
+
 - Create a new `home.html` file, add some html changes and save them
-  
 - Stash save your current changes
- git stash
+  git stash
 - Repeat the same process for a new `about.html` page and stash save your changes
- git stash
+  git stash
 - Repeat the same process for a new `team.html` page and stash save your changes
- git stash
+  git stash
 - Using stash pop restore the changes of the `about.html` page
- git stash pop 3
+  git stash pop 3
 - With the help of an index use stash pop bring back the `home.html` page changes
- git stash pop
+  git stash pop
 - Commit the current changes and push them
- git commit -m"commit message" and git push origin main
+  git commit -m"commit message" and git push origin main
 - Using stash pop restore the changes of the `team.html` page index
- git stash pop <index>
+  git stash pop <index>
 - Reset the current changes using git reset and go back to the changes without the `team.html` page
- git reset --hard
+  git reset --hard
