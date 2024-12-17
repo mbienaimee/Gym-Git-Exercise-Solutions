@@ -5,7 +5,9 @@
 ### Exercices 1
 
 - Create a project folder & initialize git
+```bash
   git init
+  ```
 
 - Make changes to the project (add files and contents)
 
