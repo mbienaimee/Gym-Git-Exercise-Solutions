@@ -277,9 +277,9 @@ git push
 - Create a PR for the changes.
   - I created and raised a new PR
 
-# Bundle 4
+## Bundle 4
 
-## Exercise 1
+### Exercise 1
 
 - Checkout the `main` branch
 ```bash
